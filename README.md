@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Connected and Autonomous Vehicle (CAV) security**
 - 🌱 I’m currently learning **Fuzzing**
 - 🤔 I’m looking for help with internships
