@@ -3,7 +3,7 @@
 ### 🔭 Recent Focuses
 
 - Developer toolings
-- Vulnerability discovery
+- Vulnerability discovery: [AFLplusplus/Grammar-Mutator](https://github.com/AFLplusplus/Grammar-Mutator)
 - Offensive security: [HTB](https://github.com/h1994st/HTB)
 
 ### Get in Touch
