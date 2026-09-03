@@ -2,7 +2,7 @@
 
 ### 🔭 Recent Focuses
 
-- Developer toolings
+- Developer toolings: [rllvm](https://github.com/h1994st/rllvm), [rules_rllvm](https://github.com/h1994st/rules_rllvm)
 - Vulnerability discovery: [AFLplusplus/Grammar-Mutator](https://github.com/AFLplusplus/Grammar-Mutator)
 - Offensive security: [HTB](https://github.com/h1994st/HTB)
 
